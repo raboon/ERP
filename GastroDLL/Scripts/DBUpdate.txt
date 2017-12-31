@@ -1,0 +1,2 @@
+﻿update-database  [-ConnectionStringName "DATABASE_NAME"] [-force] [-script]
+
